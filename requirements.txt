@@ -1,0 +1,2 @@
+pathlib>=1.0.1
+jsonschema>=0.18.0
